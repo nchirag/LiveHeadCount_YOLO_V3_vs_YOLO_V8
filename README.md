@@ -44,7 +44,7 @@ YOLOv8 is the latest in the YOLO family, offering state-of-the-art performance w
 
 4. **Download the pre-trained models**:
     Ensure that you have downloaded the `yolov3.weights` and `yolov8x.pt` files. You can get them from the official YOLO repositories:
-    - YOLOv3: [Download weights]([https://pjreddie.com/darknet/yolo/](https://pjreddie.com/media/files/yolov3.weights))
+    - YOLOv3: [Download weights](https://pjreddie.com/media/files/yolov3.weights)
     - YOLOv8: [Download weights](https://github.com/ultralytics/yolov8)
 
 5. **Set up Git LFS**:
